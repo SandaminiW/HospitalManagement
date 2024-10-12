@@ -1,2 +1,2 @@
-# HospitalManagement
-Hospital Management Laravel-main
+# POS System
+
